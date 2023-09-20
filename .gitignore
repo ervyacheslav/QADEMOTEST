@@ -5,9 +5,9 @@ build/
 !**/src/test/**/build/
 
 ### IntelliJ IDEA ###
-/settings.gradle
-/gradlew.bat
-/gradlew
+settings.gradle
+gradlew.bat
+gradlew
 .idea
 .idea/modules.xml
 .idea/jarRepositories.xml
